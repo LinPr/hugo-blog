@@ -1,4 +1,0 @@
-baseURL = 'https://LinPr.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'gohugo-theme-ananke'
